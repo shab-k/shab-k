@@ -1,10 +1,7 @@
    ### Hi there👋
    <br />
    
-- 👉 I'm 🏃 a marathon of job hunting, having interviews, & doing some technical exercises + learning new things + building projects.
-- 🌱 Goals: Learning new things like Redis, Cypress, Jenkins & Kubernetes + focusing more on MERN + TypeScript, Laravel, Docker, & Jest. 
-- 🚀 Latest project: React + Redux + firebase, full CRUD: https://wexperts-react.web.app/
-- 👉 Portfolio: https://shabnam-k.me
+I'm a Passionate developer with 5+ years of experience in building high-performance mobile and web applications. I specialize in crafting intuitive user interfaces and optimizing app performance for seamless user experiences across iOS and Android platforms.
 
 
 ### Portfolio & Contact: 

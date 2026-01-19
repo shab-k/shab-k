@@ -6,6 +6,17 @@ I'm a Passionate developer with 5+ years of experience in building high-performa
 ### Last Project 🔥
 https://github.com/shab-k/my-react-blog
 
+#### Features
+- Feature based folder structure
+- CRUD React 19 App
+- Internationalization
+- Clean imports (with alias)
+- Theme + Redux
+- CSS Variables
+- Search
+- Test
+- TS -> will be added later
+
 
 ### Portfolio & Contact: 
 

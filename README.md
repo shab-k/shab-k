@@ -1,7 +1,7 @@
    ### Hi there👋
    <br />
    
-I'm a Passionate developer with 5+ years of experience in building high-performance mobile and web applications. I specialize in crafting intuitive user interfaces and optimizing app performance for seamless user experiences across iOS and Android platforms.
+I'm a passionate developer with 5+ years of experience in building high-performance mobile and web applications. I specialize in crafting intuitive user interfaces and optimizing app performance for seamless user experiences across iOS and Android platforms.
 
 ### Last Project 🔥
 https://github.com/shab-k/my-react-blog
